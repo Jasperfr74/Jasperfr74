@@ -28,7 +28,7 @@ I'm currently working at the Local.fr, a french tech company based in Bourg en B
 
 ## 🔨 My Favorite tools to work with
 
-### - Languages
+#### - Languages
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,13 +38,14 @@ I'm currently working at the Local.fr, a french tech company based in Bourg en B
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### - Frameworks
+#### - Frameworks
 
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![image](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)
 
-### - Libraries
+#### - Libraries
+
 ![image](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -55,12 +56,12 @@ I'm currently working at the Local.fr, a french tech company based in Bourg en B
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![image](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
-### - Package manager
+#### - Package manager
 
 ![image](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-### - IDE
+#### - IDE
 
 ![image](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![image](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
@@ -73,20 +74,20 @@ I'm currently working at the Local.fr, a french tech company based in Bourg en B
 ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-### - Terminal
+#### - Terminal
 
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### - Workflow Platforms
+#### - Workflow Platforms
 
 ![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-### - Linters
+#### - Linters
 
 ![image](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![image](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
-### My activities
+## ⚡️ My activities
 
 ![Jasperfr74](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jasperfr74&theme=nord_bright)
 
