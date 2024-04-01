@@ -9,14 +9,14 @@
 
 ## 💬 About me
 
-My name is Arnaud, I'm French 🇫🇷 and I'm a currently a front-end developer specialized in Angular and Vue.
+My name is Arnaud, I'm French 🇫🇷 and I'm currently a front-end developer specializing in Angular and Vue.
 
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ## 💻 Where do I currently work
 
-I'm currently working at the Local.fr, a french tech company based in Bourg en Bresse in the Rhône-Alpes region in France specialized on building web apps.
+I'm currently working in a French tech company based in the Rhône-Alpes region in France specializing in building web apps.
 
 ## 📫 How to reach me
 
