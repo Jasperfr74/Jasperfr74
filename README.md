@@ -9,13 +9,14 @@
 
 ## 💬 About me
 
-My name is Arnaud, I'm French 🇫🇷 and I'm a currently a front-end developer specialized in Angular.
+My name is Arnaud, I'm French 🇫🇷 and I'm a currently a front-end developer specialized in Angular and Vue.
 
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ## 💻 Where do I currently work
 
-I'm currently working at the Local.fr, a french tech company based in Bourg en Bresse in the Rhône-Alpes region in France specialized on building website through a CMS called Webtool.
+I'm currently working at the Local.fr, a french tech company based in Bourg en Bresse in the Rhône-Alpes region in France specialized on building web apps.
 
 ## 📫 How to reach me
 
@@ -23,7 +24,6 @@ I'm currently working at the Local.fr, a french tech company based in Bourg en B
     <a href="https://www.linkedin.com/in/arnaud-echavidre/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://twitter.com/JasperCx_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="https://github.com/Jasperfr74" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-    <a href="mailto:a.echavidre@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ## 🔨 My Favorite tools to work with
